@@ -1,2 +1,2 @@
-# lista_05_js
-lista_05_js
+# Lista-05
+Uma lista de exercícios estrutura de repetição
